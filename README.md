@@ -20,7 +20,7 @@ silahkan memasukkan hasil latihan ke dalam daftar di bawah ini dengan cara:
 -
 
 ### HTML Dasar WPU
-- 
+- akhmad nur hidayat - https://github.com/ahmadhidayat22/web-programming-unpas
 -
 -
 -
