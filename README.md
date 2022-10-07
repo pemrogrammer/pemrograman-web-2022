@@ -14,7 +14,7 @@ silahkan memasukkan hasil latihan ke dalam daftar di bawah ini dengan cara:
 
 ### Latihan kelas Pemrograman Web
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
--
+- Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 -
 -
 -
