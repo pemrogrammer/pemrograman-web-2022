@@ -13,7 +13,7 @@ silahkan memasukkan hasil latihan ke dalam daftar di bawah ini dengan cara:
 ## Daftar *repository* hasil latihan.
 
 ### Latihan kelas Pemrograman Web
--
+- Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 -
 -
 -
@@ -21,7 +21,7 @@ silahkan memasukkan hasil latihan ke dalam daftar di bawah ini dengan cara:
 
 ### HTML Dasar WPU
 - Ahmad Nur Hidayat - https://github.com/ahmadhidayat22/web-programming-unpas
--
+- Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/html-dasar-html
 -
 -
 -
