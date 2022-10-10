@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selector</title>
+
+  <style>
+    h1 {
+      color: red;
+    }
+
+    h2 {
+      color: orange;
+    }
+
+    #subjudul {
+      color: green;
+    }
+
+    .subsubjudul {
+      color: blue;
+    }
+
+  </style>
+</head>
+<body>
+  <a href="index.html">kembali</a>
+
+  <h1>1. Nama Element</h1>
+  <h2 id="subjudul">2. ID Element</h2>
+  <h2>2. Pembanding</h2>
+  <h3>3. Pembanding 2</h3>
+  <h3 class="subsubjudul">3. Kelas Element</h3>
+
+  
+  <script>
+    console.log(document.getElementById('subjudul'));
+  </script>
+</body>
+</html>
