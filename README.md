@@ -1,16 +1,17 @@
 # Pemrograman Web 2022
-Daftar hasil latihan kelas Pemrograman Web TI POLNES 2022
+Daftar hasil latihan kelas Pemrograman Web 2022 oleh Klub Pemrograman TI POLNES.
 
-silahkan memasukkan hasil latihan ke dalam daftar di bawah ini dengan cara:
-1. lakukan *fork* pada *repository* ini.
-2. tambahkan hasil latihan kalian pada file `README.md` dengan format `- [nama anda] - [link *repository* hasil tugas]`
-
-    contoh: '- Zain - https://github.com/pemrogrammer/pemrograman-web-2022'.
-  
-3. *commit* kemudian lakukan *pull request*.
-4. selesai.
+Daftar tautan penting:
+- Presentasi: https://drive.google.com/drive/folders/1FfGufoDIjHI2Z7V8kKxw-gdOGnXH0bN1?usp=sharing
+- Rekaman kegiatan belajar: https://www.youtube.com/playlist?list=PL1jYKggCHVEdRTIrgJM8HCkAdVx5KcZn3
 
 ## Daftar *repository* hasil latihan.
+
+> Silahkan memasukkan alamat URL *repository* hasil latihan ke dalam daftar di bawah ini dengan cara:
+> - lakukan *fork* pada *repository* ini.
+> - tambahkan hasil latihan kalian pada file `README.md` dengan format `- [nama anda] - [link *repository* hasil tugas]` (contoh: `- Zain - https://github.com/pemrogrammer/pemrograman-web-2022`).
+> - *commit* kemudian lakukan *pull request*.
+> - selesai.
 
 ### Latihan kelas Pemrograman Web
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
@@ -26,4 +27,21 @@ silahkan memasukkan hasil latihan ke dalam daftar di bawah ini dengan cara:
 -
 -
 
+### CSS Dasar WPU
+- 
+- 
+- 
+- 
 
+### CSS Layouting WPU
+-
+-
+-
+-
+
+### CSS 3 WPU
+-
+-
+-
+-
+-
