@@ -16,14 +16,14 @@ Daftar tautan penting:
 ### Latihan kelas Pemrograman Web
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
--
+- Virhan Pratama Putra - https://github.com/Natsukimo/kpti-pw-latihan
 -
 -
 
 ### HTML Dasar WPU
 - Ahmad Nur Hidayat - https://github.com/ahmadhidayat22/web-programming-unpas
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/html-dasar-html
--
+- Virhan Pratama Putra - https://github.com/Natsukimo/html-dasar-wpu
 -
 -
 
