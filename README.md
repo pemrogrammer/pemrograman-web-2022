@@ -9,8 +9,11 @@ Daftar tautan penting:
 
 > Silahkan memasukkan alamat URL *repository* hasil latihan ke dalam daftar di bawah ini dengan cara:
 > - lakukan *fork* pada *repository* ini.
-> - tambahkan hasil latihan kalian pada file `README.md` dengan format `- [nama anda] - [link *repository* hasil tugas]` (contoh: `- Zain - https://github.com/pemrogrammer/pemrograman-web-2022`).
-> - *commit* kemudian lakukan *pull request*.
+> - tambahkan hasil latihan kalian dengan cara menyunting *file* `README.md`.
+> - tambahkan URL *repository* latihan dengan format `- [nama anda] - [link *repository* hasil tugas]` (contoh: `- Zain - https://github.com/pemrogrammer/pemrograman-web-2022`). sesuaikan dengan judul latihannya.
+> - lakukan `commit`.
+> - lakukan `push` jika menyunting dengan tidak menggunakan web browser (github.com).
+> - kemudian klik `contribute` lalu klik `open pull request`.
 > - selesai.
 
 ### Latihan kelas Pemrograman Web
