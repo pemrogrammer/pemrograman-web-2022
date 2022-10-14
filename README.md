@@ -20,7 +20,7 @@ Daftar tautan penting:
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
--
+- Ahmad - https://github.com/Maybe-HZ/Training
 -
 
 ### HTML Dasar WPU
