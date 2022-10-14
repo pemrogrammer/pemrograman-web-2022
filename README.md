@@ -21,7 +21,7 @@ Daftar tautan penting:
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
 - Ahmad - https://github.com/Maybe-HZ/Training
--
+- Zain - https://github.com/sensasi-delight/pemrograman-web-2022
 
 ### HTML Dasar WPU
 - Ahmad Nur Hidayat - https://github.com/ahmadhidayat22/web-programming-unpas
