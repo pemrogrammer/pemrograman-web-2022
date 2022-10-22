@@ -28,6 +28,7 @@ Daftar tautan penting:
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/html-dasar-html
 - Virhan Pratama Putra - https://github.com/virhanpp/html-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/HTML/Html-dasar-wpu
+- Andika Julian Pratama - https://github.com/andikajulian/html-dasar-wpu
 -
 
 ### CSS Dasar WPU
