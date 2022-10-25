@@ -20,7 +20,7 @@ Daftar tautan penting:
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
-- 
+- firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web/tree/main/tugas
 -
 
 ### HTML Dasar WPU
@@ -29,12 +29,12 @@ Daftar tautan penting:
 - Virhan Pratama Putra - https://github.com/virhanpp/html-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/HTML/Html-dasar-wpu
 - Andika Julian Pratama - https://github.com/andikajulian/html-dasar-wpu
--
+- Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web
 
 ### CSS Dasar WPU
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-dasar-wpu
-- 
+- Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/css-dasar-wpu
 - 
 
 ### CSS Layouting WPU
