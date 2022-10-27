@@ -35,7 +35,7 @@ Daftar tautan penting:
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-dasar-wpu
 - Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/css-dasar-wpu
-- 
+- Virhan Pratama Putra - https://github.com/virhanpp/css-dasar-wpu
 
 ### CSS Layouting WPU
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-layouting-wpu
