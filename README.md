@@ -24,7 +24,9 @@ Daftar tautan penting:
 -
 
 ### HTML Dasar WPU
+
 https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
+
 - Ahmad Nur Hidayat - https://github.com/ahmadhidayat22/web-programming-unpas
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/html-dasar-html
 - Virhan Pratama Putra - https://github.com/virhanpp/html-dasar-wpu
@@ -33,21 +35,27 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
 - Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web
 
 ### CSS Dasar WPU
+
 https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p
+
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-dasar-wpu
 - Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/css-dasar-wpu
 - Virhan Pratama Putra - https://github.com/virhanpp/css-dasar-wpu
 
 ### CSS Layouting WPU
+
 https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
+
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-layouting-wpu
 -
 -
 -
 
 ### CSS 3 WPU
+
 https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
+
 -
 -
 -
@@ -55,7 +63,9 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
 -
 
 ### Portofolio WPU
+
 https://www.youtube.com/watch?v=LkR-9Z1sle8
+
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/MuhammadIrfanAnwari
 -
 -
@@ -63,7 +73,9 @@ https://www.youtube.com/watch?v=LkR-9Z1sle8
 -
 
 ### Javascript Dasar WPU
+
 https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w
+
 -
 -
 -
