@@ -31,8 +31,8 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/html-dasar-html
 - Virhan Pratama Putra - https://github.com/virhanpp/html-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/HTML/Html-dasar-wpu
-- Andika Julian Pratama - https://github.com/andikajulian/html-dasar-wpu
 - Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web
+- Andika Julian Pratama - https://github.com/andikajulian/html-dasar-wpu
 
 ### CSS Dasar WPU
 
@@ -42,6 +42,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-dasar-wpu
 - Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/css-dasar-wpu
 - Virhan Pratama Putra - https://github.com/virhanpp/css-dasar-wpu
+- Andika Julian Pratama - https://github.com/andikajulian/css-dasar-wpu
 
 ### CSS Layouting WPU
 
