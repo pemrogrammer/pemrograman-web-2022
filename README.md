@@ -34,7 +34,7 @@ Daftar tautan penting:
 ### CSS Dasar WPU
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-dasar-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-dasar-wpu
-- 
+- Andika Julian Pratama - https://github.com/andikajulian/css-dasar-wpu
 - 
 
 ### CSS Layouting WPU
