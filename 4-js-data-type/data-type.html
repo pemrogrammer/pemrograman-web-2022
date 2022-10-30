@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Type</title>
+</head>
+
+<body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.3.2/math.min.js" integrity="sha512-Ane180hq4oDKjyIxiXQmTE6mbc6P7yi+okukETT6gUkylIUsujvzrbp8v35joOiIMawzBGLKaEh/RghQ6L7TmA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script>
+
+    const radius = 4;             // number
+    const firstName = "Zain";     // string
+    const smartphone = {          // Object
+      merk: "Apple",
+      type: "iPhone 13"
+    };
+    const isDone = true;          // boolean
+    const dayNames = ["Monday", "Tuesday", "Wednesday"]; // array
+    const sembarangs = [1, true, "Halo", smartphone, {
+      merk: "Samsung",
+      type: "Galaxy Y"
+    }];
+
+    // console.log(sembarangs);
+
+
+    // const format = [nila1, nilai2];
+    const matrixA = [
+      [2, -1],
+      [3, 0]
+    ];
+
+    const matrixB = [
+      [-5, 4],
+      [-2, 3]
+    ];
+
+
+    const matrixC = [[],[]];
+    matrixC[0][0] = matrixA[0][0] + matrixB[0][0];
+    matrixC[0][1] = matrixA[0][1] + matrixB[0][1];
+    matrixC[1][0] = matrixA[1][0] + matrixB[1][0];
+    matrixC[1][1] = matrixA[1][1] + matrixB[1][1];
+    // console.log(matrixC);
+
+
+    const matrixD = math.multiply(matrixA, matrixB);
+    // console.log(matrixD);
+
+
+    const car = {
+      merk: "Toyota",
+      type: "Avanza",
+      color: "Grey",
+      owner: "Zain",
+      platNo: "KT 1234 XY",
+      cc: 1300,
+      maxSpeed: 180, // km/h
+
+      getDistanceByHour: function (durationInHour) {
+        return this.maxSpeed * durationInHour
+      }
+    }
+
+    // console.log("mobil " + car.owner + " bermerk " + car.merk + " telah menempuh " + car.getDistanceByHour(2) + " kilometer");
+
+    let a;
+    const b = undefined;
+    const c = null;
+    const d = "";
+
+    console.log(typeof a);
+    console.log(typeof b);
+    console.log(typeof c);
+    console.log(typeof d);
+
+
+    // console.log(radius);
+    // console.log(firstName);
+    // console.log(smartphone.merk);
+
+
+    // const umur = "25";
+    // const x = "Halo, Nama Saya " + firstName + ". umur saya " + umur + ".";
+
+    // console.log(x);
+
+    // const pesan = "ini adalah slash: /. ini adalah backslash: \\";
+    // console.log(pesan);
+
+  </script>
+</body>
+
+</html>
