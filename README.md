@@ -21,6 +21,7 @@ Daftar tautan penting:
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
 - firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web/tree/main/tugas
+- Andika Julian Pratama - https://github.com/andikajulian/kpti-pemrograman-web
 -
 
 ### HTML Dasar WPU
