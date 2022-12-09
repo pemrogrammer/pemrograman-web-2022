@@ -5,6 +5,16 @@ Daftar tautan penting:
 - Presentasi: https://drive.google.com/drive/folders/1FfGufoDIjHI2Z7V8kKxw-gdOGnXH0bN1?usp=sharing
 - Rekaman kegiatan belajar: https://www.youtube.com/playlist?list=PL1jYKggCHVEdRTIrgJM8HCkAdVx5KcZn3
 
+## Proyek Akhir
+
+- To-do List oleh Harun Arrosied
+- Countdown Clock oleh Gilang
+- Budget Calculator oleh Muhammad Irfan Anwari
+
+### Ide Proyek (silahkan ambil)
+- Filter data
+- Unit Converter
+
 ## Daftar *repository* hasil latihan.
 
 > Silahkan memasukkan alamat URL *repository* hasil latihan ke dalam daftar di bawah ini dengan cara:

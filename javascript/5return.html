@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Return</title>
+</head>
+<body>
+
+	<!-- <select name="" id="selectNama">
+		<option>Bruce Banner</option>
+		<option>Natasha Romanoff</option>
+		<option>Hawk eye</option>
+	</select> -->
+
+
+	<p>Daftar Nama Siswa:</p>
+
+	<ul id="ulNama">
+		<li>Budi</li>
+		<li>Ani</li>
+		<li>Sinta</li>
+		<li>Tono</li>
+	</ul>
+
+	<input type="text" id="inputNama" class="biru">
+	<button onclick="tambahDaftar()">Simpan</button>
+
+	<script>
+		function tambahDaftar () {
+			const namaBaru = inputNama.value;
+			ulNama.innerHTML += '<li>' + namaBaru + '</li>';
+			inputNama.value = null;
+		}
+
+	</script>
+
+
+	<script>
+				let varA = 10;
+		const varB = 20;
+
+		const varNumberInt = 10;
+		const varNumberFloat = 10.5;
+		const varString = "ini string";
+		const varBoolean = true;
+		const varArray = [
+			10,
+			"string",
+			false,
+			[
+				20, "test", true
+			], {
+				properti: 'value'
+			}
+		];
+		
+		const varObject = {
+			numberProp: 10,
+			stringProp: "halo",
+			booleanProp: true,
+			arrayProp: [1, 2, 3],
+			objectProp: {
+				objectLagi: {
+
+				}
+			}
+		};
+
+		const buah = {
+			rasa: "manis",
+			bentuk: "bulat",
+			warna: "hijau",
+			nama: "mangga"
+		};
+
+		// console.log(varArray);
+		// console.log(varArray[0]);
+		// console.log(varArray[3][2]);
+		// console.log(varArray[4].properti);
+
+		// console.log(varObject);
+		// console.log(varObject.stringProp);
+		// console.log(varObject.arrayProp[2]);
+		// console.log(varObject.objectProp.objectLagi);
+
+		// console.log(buah.rasa);
+
+		function terompet (jumlahTerompet) {
+			for (let i = 1; i <= jumlahTerompet; i++) {
+				console.log(i + '. 🎉');
+			}
+		};
+
+		// terompet(5);
+
+		// ....
+
+		// terompet(10);
+
+
+		// const variabel = 10;
+		
+		// {
+		// 	const variabel = 15;
+		// 	console.log(variabel);
+		// }
+		
+		// console.log(variabel);
+
+
+
+
+		function hitungLuasPersegi(panjang, lebar) {
+			const luasPersegi = panjang * lebar;
+			// console.log(luasPersegi);
+
+			return luasPersegi;
+		}
+
+		// const luas1 = hitungLuasPersegi(20, 5);
+		// const luas2 = hitungLuasPersegi(10, 5);
+
+		// const totalLuas1 = luas1 + luas2;
+
+		// const totalLuas2 = 
+		// 	hitungLuasPersegi(20, 5) + 
+		// 	hitungLuasPersegi(10, 5);
+
+		// console.log(totalLuas1);
+		// console.log(totalLuas2);
+
+
+		function bikinMinumanKopi(jumlahAir, merk) {
+			// ....
+
+			return {
+				volume: jumlahAir,
+				merk: merk
+			}
+		}
+
+		const kopi1 = bikinMinumanKopi('300ml', 'Good Day');
+		const merkKopi2 = bikinMinumanKopi('450ml', 'Nescafe').merk;
+
+		// console.log(merkKopi2);
+	</script>
+
+	<script>
+		const daftarNama = [
+			'Steve Roger',
+			'Tony Stark',
+			'Peter Parker'
+		];
+
+		function test (nama) {
+			const hasil = nama + ' test';
+			// console.log(hasil);
+			return hasil;
+		}
+
+		// const hasilMap = daftarNama.map(test).map(test).map(test);
+		// console.log(hasilMap);
+
+		function bikinOption (nama) {
+			return `<option>${nama}</option>`;
+		}
+
+		// selectNama.innerHTML = 
+		// 	selectNama.innerHTML +
+		// 	daftarNama.map(bikinOption).join('');
+
+		// selectNama.innerHTML +=
+		// 	daftarNama.map(bikinOption).join('');
+
+	</script>
+	
+</body>
+</html>

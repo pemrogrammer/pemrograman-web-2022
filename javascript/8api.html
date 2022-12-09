@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>API</title>
+</head>
+<body>
+	<script>
+		
+		const body = document.querySelector('body');
+		
+		
+		async function getIllegals() {
+			body.innerHTML = '<h1>Mohon Tunggu...</h1>';
+			const response = await fetch('https://ojk-invest-api.vercel.app/api/illegals');
+			const data = await response.json();
+			const illegals = data.data.illegals;
+
+			body.innerHTML = '<h1>Hasil:</h1>';
+			body.innerHTML += illegals.map(item => `<h2>${item.name}</h2>`).join('');
+			
+		}
+
+		getIllegals();
+	</script>
+</body>
+</html>

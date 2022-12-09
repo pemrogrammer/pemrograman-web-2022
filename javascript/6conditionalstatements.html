@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Conditional Statements</title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+</head>
+<body>
+
+	<!-- <div class="container mt-5">
+		<h1>Program pemeriksa kelulusan</h1>
+		<input id="inputNama" type="text" class="form-control mt-3" placeholder="Nama">
+		<input id="inputNilai" max="100" type="number" class="form-control mt-3" placeholder="Nilai">
+
+		<button onclick="cekNilai()" class="btn btn-primary mt-3">Cek Nilai</button>
+	</div>
+
+
+	<div class="container mt-5">
+		<h1>Program pemeriksa harga</h1>
+
+		<select id="selectBarang" class="form-control mt-3">
+			<option>Chiki</option>
+			<option>Susu</option>
+			<option>Tepung</option>
+			<option>Aqua</option>
+		</select>
+
+		<button onclick="cekHarga()" class="btn btn-primary mt-3">Cek Harga</button>
+
+	</div> -->
+
+	<div class="container mt-5">
+		<h1>Program Konversi Nilai</h1>
+		<input id="inputNilai" type="number" class="form-control mt-3" placeholder="Silahkan masukkan nilai angka">
+		<button onclick="konversi()" class="btn btn-primary mt-3 mb-5">Konversi</button>
+
+		<h4>Keterangan:</h4>
+		<p id="pKeterangan"></p>
+		<h4>Nilai Huruf:</h4>
+		<p id="pNilaiHuruf"></p>
+	</div>
+
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+	<script>
+		function konversi() {
+			const nilai = inputNilai.value
+			let nilaiHuruf;
+
+			// VALIDATION
+			if (nilai > 100 || nilai < 0) {
+				alert('nilai yang anda masukkan tidak valid');
+				return 'error';
+			} 
+
+			// IF untuk keterangan
+			if (nilai >= 60) {
+				pKeterangan.innerHTML = 'Lulus';
+			} else {
+				pKeterangan.innerHTML = 'Tidak Lulus'
+			}
+
+			// IF untuk nilai huruf
+			if (nilai >= 85) {
+				nilaiHuruf = 'A';				
+			} else if(nilai >= 75) {
+				nilaiHuruf = 'B';
+			} else if(nilai >= 60) {
+				nilaiHuruf = 'C';
+			} else if(nilai >= 40) {
+				nilaiHuruf = 'D';
+			} else {
+				nilaiHuruf = 'E';
+			}
+
+
+			pNilaiHuruf.innerHTML = nilaiHuruf;			
+		}
+	</script>
+
+	<script>
+		// const nilaiZain = 75;
+		// const isLulus = nilaiZain >= 75;
+
+		// 1. IF
+		// if (isLulus) {
+			// alert('Zain Lulus');
+		// }
+
+		// function cekNilai() {
+		// 	if (inputNilai.value >= 80) {
+		// 		alert(`Selamat, ${inputNama.value} lulus dengan nilai A`);
+		// 	} else if (inputNilai.value >= 60) {
+		// 		alert(`Selamat, ${inputNama.value} lulus dengan nilai B`);
+		// 	} else {
+		// 		alert(`${inputNama.value}, kamu belum lulus.`);
+		// 	}
+		// }
+
+
+
+
+		// 2. SWICTH
+		// function cekHarga() {
+		// 	switch (selectBarang.value) {
+		// 		case 'Chiki':
+		// 			alert('Harga Chiki: Rp. 2.000');
+		// 			break;
+
+		// 		case 'Susu':
+		// 			alert('Harga Susu: Rp. 5.000');
+		// 			break;
+
+		// 		case 'Tepung':
+		// 			alert('Harga Tepung: Rp. 8.000');
+		// 			break;
+			
+		// 		default:
+		// 			alert('Barang tidak terdaftar');
+		// 			break;
+		// 	}
+		// }
+
+	</script>
+</body>
+</html>
