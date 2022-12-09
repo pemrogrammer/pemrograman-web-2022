@@ -5,13 +5,13 @@ Daftar tautan penting:
 - Presentasi: https://drive.google.com/drive/folders/1FfGufoDIjHI2Z7V8kKxw-gdOGnXH0bN1?usp=sharing
 - Rekaman kegiatan belajar: https://www.youtube.com/playlist?list=PL1jYKggCHVEdRTIrgJM8HCkAdVx5KcZn3
 
-## Proyek Akhir
+## 🚀 Proyek Akhir
 
 - To-do List oleh Harun Arrosied
 - Countdown Clock oleh Gilang
 - Budget Calculator oleh Muhammad Irfan Anwari
 
-### Ide Proyek (silahkan ambil)
+### 💡 Ide Proyek (silahkan ambil)
 - Filter data
 - Unit Converter
 
@@ -26,7 +26,7 @@ Daftar tautan penting:
 > - kemudian klik `contribute` lalu klik `open pull request`.
 > - selesai.
 
-### Latihan kelas Pemrograman Web
+### ⚙ Latihan kelas Pemrograman Web
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
