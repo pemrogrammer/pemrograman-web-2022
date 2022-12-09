@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Looping</title>
+</head>
+<body>
+	
+	<script>
+		// FOR
+		// for (let i = 0; i < 10; i++) {
+		// 	//kode yang diulang
+		// 	document.querySelector('body')
+		// 		.innerHTML += `<h${i}>Halo</h${i}>`;
+		// }
+
+
+		// FOR IN
+		// const motor = {
+		// 	warna: 'merah',
+		// 	merk: 'Yamaha',
+		// 	kecepatan: 180,
+		// 	tahun: 2020
+		// }
+
+		// for (const key in motor) {
+		// 	// kode yang mau diulang 
+		// 	console.log(`${key}: ${motor[key]}`);
+		// }
+
+
+
+
+		// FOR EACH
+
+		// const nilaiMhs = [90, 20, 58, 59, 75];
+		// nilaiMhs.forEach(nilai => {
+		// 	// kode yang mau diulang
+		// 	console.log('for each ' + nilai);
+		// });
+
+
+		// WHILE
+
+		// let i = 0
+		// while (i < 10) {
+		// 	// kode yang mau diulang
+		// 	console.log('while ' + i);
+
+		// 	i++;
+		// }
+
+
+		// DO WHILE
+
+		// let j = 0;
+		// do {
+		// 	console.log('do while ' + j);
+		// 	j++;
+		// } while (j < 10);
+
+
+
+		let nilaiMhs = [85, 75, 90, 65, 80, 75, 50, 80, 90];
+		// total = nilaiMhs[0] + nilaiMhs[1] + nilaiMhs[2];
+
+		let total1 = 0;
+		nilaiMhs.forEach(nilai => {
+			total1 += nilai
+		});
+		
+		console.log(total1);
+
+		let nilaiplus100 = nilaiMhs.map(nilai => nilai + 100);
+		console.log(nilaiplus100);
+
+		let total2 = nilaiMhs.reduce((a, b) => a + b)
+		console.log(total2);
+	</script>
+</body>
+</html>

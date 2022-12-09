@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+	<title>Scope</title>
+</head>
+
+<body>
+	<script>
+		// let varA = 10;
+		// const varB = 20;
+
+		// function circleArea(r) {
+		// 	const pi = 3.14;
+
+		// 	const circleArea = pi * r ^ 2;
+		// 	console.log('luas lingkaran adalah: ' + circleArea);
+		// }
+
+		// circleArea(7);
+		// circleArea(30);
+		// circleArea(25);
+
+
+		// const varA = 10;
+		// console.log(varA);
+
+		// let varB = 20;
+		// varB = 20/5;
+
+		// console.log(varB);
+
+		
+		// let varC = 5;			// 5
+		// varC += 10;				// 5 + 10 = 15
+		// varC = varC * 5;		// 15 x 5 = 75
+		// // sama saja dengan
+		// // varC = varC + 10;
+
+		// console.log(varC);
+
+		// let result = 100;
+
+		// function rectanglePerimeter(length, widht) {
+		// 	let result = 2 * (length+widht);
+		// }
+
+		// rectanglePerimeter(20, 10)
+		// console.log(result);
+
+		// let nama = 'POLNES';
+		
+		// function greeting() {
+		// 	let nama = 'Samarinda';
+		// 	console.log(nama);
+		// }
+
+		// greeting();
+		// console.log(nama);
+
+
+		// let nama = 'POLNES';
+
+		// {
+		// 	let nama = 'Samarinda';
+		// 	console.log(nama);
+		// }
+
+		// console.log(nama);
+
+
+		function rectanglePerimeter(length, width) {
+			const result = 2 * (length+width);
+			
+			return result;
+		}
+
+		const rect1Length = 20;
+		const rect1Width = 10;
+
+		const rect1Perimeter = rectanglePerimeter(rect1Length, rect1Width)
+
+		const rect2Length = 5;
+		const rect2Width = 10;
+
+		const rect2Perimeter = rectanglePerimeter(rect2Length, rect1Width)
+
+		console.log(
+			'total keliling 2 persegi: '
+			+ (rect1Perimeter + rect2Perimeter)
+		);
+
+	</script>
+</body>
+
+</html>
