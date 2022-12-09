@@ -15,7 +15,7 @@ Daftar tautan penting:
 - Filter data
 - Unit Converter
 
-## Daftar *repository* hasil latihan.
+## ⚙ Daftar *repository* hasil latihan.
 
 > Silahkan memasukkan alamat URL *repository* hasil latihan ke dalam daftar di bawah ini dengan cara:
 > - lakukan *fork* pada *repository* ini.
@@ -26,7 +26,7 @@ Daftar tautan penting:
 > - kemudian klik `contribute` lalu klik `open pull request`.
 > - selesai.
 
-### ⚙ Latihan kelas Pemrograman Web
+### Latihan kelas Pemrograman Web
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
