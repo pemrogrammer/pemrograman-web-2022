@@ -10,10 +10,10 @@ Daftar tautan penting:
 - To-do List oleh Harun Arrosied
 - Countdown Clock oleh Gilang
 - Budget Calculator oleh Muhammad Irfan Anwari
+- Unit Converter oleh Andika Julian Pratama
 
-### 💡 Ide Proyek (silahkan ambil)
+### 💡 Ide Proyek (silahkan dipilih)
 - Filter data
-- Unit Converter
 
 ## ⚙ Daftar *repository* hasil latihan.
 
