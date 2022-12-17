@@ -32,7 +32,7 @@ Daftar tautan penting:
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
 - firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web/tree/main/tugas
 - Andika Julian Pratama - https://github.com/andikajulian/kpti-pemrograman-web
--
+- Mukhamad Syamsu Nur Hidayat - https://github.com/LunaticFTW/kpti-pw-latihan
 
 ### HTML Dasar WPU
 
@@ -44,6 +44,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/HTML/Html-dasar-wpu
 - Firdianto Putra Prasetyo - https://github.com/firdi-fgithub/kpti-pemrograman-web
 - Andika Julian Pratama - https://github.com/andikajulian/html-dasar-wpu
+- Mukhamad Syamsu Nur Hidayat - https://github.com/LunaticFTW/html-dasar-wpu
 
 ### CSS Dasar WPU
 
