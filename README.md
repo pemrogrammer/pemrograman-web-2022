@@ -1,7 +1,9 @@
 # Pemrograman Web 2022
+
 Daftar hasil latihan kelas Pemrograman Web 2022 oleh Klub Pemrograman TI POLNES.
 
 Daftar tautan penting:
+
 - Presentasi: https://drive.google.com/drive/folders/1FfGufoDIjHI2Z7V8kKxw-gdOGnXH0bN1?usp=sharing
 - Rekaman kegiatan belajar: https://www.youtube.com/playlist?list=PL1jYKggCHVEdRTIrgJM8HCkAdVx5KcZn3
 
@@ -13,20 +15,23 @@ Daftar tautan penting:
 - Unit Converter oleh Andika Julian Pratama
 
 ### 💡 Ide Proyek (silahkan dipilih)
+
 - Filter data
 
-## ⚙ Daftar *repository* hasil latihan.
+## ⚙ Daftar _repository_ hasil latihan.
 
-> Silahkan memasukkan alamat URL *repository* hasil latihan ke dalam daftar di bawah ini dengan cara:
-> - lakukan *fork* pada *repository* ini.
-> - tambahkan hasil latihan kalian dengan cara menyunting *file* `README.md`.
-> - tambahkan URL *repository* latihan dengan format `- [nama anda] - [link *repository* hasil tugas]` (contoh: `- Zain - https://github.com/pemrogrammer/pemrograman-web-2022`). sesuaikan dengan judul latihannya.
+> Silahkan memasukkan alamat URL _repository_ hasil latihan ke dalam daftar di bawah ini dengan cara:
+>
+> - lakukan _fork_ pada _repository_ ini.
+> - tambahkan hasil latihan kalian dengan cara menyunting _file_ `README.md`.
+> - tambahkan URL _repository_ latihan dengan format `- [nama anda] - [link *repository* hasil tugas]` (contoh: `- Zain - https://github.com/pemrogrammer/pemrograman-web-2022`). sesuaikan dengan judul latihannya.
 > - lakukan `commit`.
 > - lakukan `push` jika menyunting dengan tidak menggunakan web browser (github.com).
 > - kemudian klik `contribute` lalu klik `open pull request`.
 > - selesai.
 
 ### Latihan kelas Pemrograman Web
+
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/kpti-pw-latihan
 - Alamsyah Haikal R - https://github.com/Alamsyah19/ClubWebProgramming
 - Virhan Pratama Putra - https://github.com/virhanpp/kpti-pw-latihan
@@ -61,7 +66,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p
 https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
 
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-layouting-wpu
--
+- Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-layouting-wpu
 -
 -
 
@@ -69,7 +74,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
 
 https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
 
--
+- Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css3-wpu
 -
 -
 -
@@ -93,4 +98,3 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w
 -
 -
 -
-
