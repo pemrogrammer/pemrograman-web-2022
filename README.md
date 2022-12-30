@@ -11,7 +11,7 @@ Daftar tautan penting:
 
 - To-do List oleh Harun Arrosied
 - Countdown Clock oleh Gilang
-- Budget Calculator oleh Muhammad Irfan Anwari
+- Budget Calculator oleh Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/tugas-akhir-club-pemrograman-polnes
 - Unit Converter oleh Andika Julian Pratama
 
 ### 💡 Ide Proyek (silahkan dipilih)
