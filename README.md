@@ -67,7 +67,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
 
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/css-layouting-wpu
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css-layouting-wpu
--
+- Andika Julian Pratama - https://github.com/andikajulian/css-layouting-wpu
 -
 
 ### CSS 3 WPU
