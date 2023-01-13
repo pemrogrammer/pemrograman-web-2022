@@ -75,7 +75,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr
 https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
 
 - Ahmad Saiful Mutaqi Azis - https://github.com/Maybe-HZ/Training/tree/main/CSS/css3-wpu
--
+- Andika Julian Pratama - https://github.com/andikajulian/css3-wpu
 -
 -
 -
