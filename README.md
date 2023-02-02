@@ -85,7 +85,7 @@ https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa
 https://www.youtube.com/watch?v=LkR-9Z1sle8
 
 - Muhammad Irfan Anwari - https://github.com/MuhammadIrfanAnwari/MuhammadIrfanAnwari
--
+- Andika Julian Pratama - https://github.com/andikajulian/Portofolio-WPU
 -
 -
 -
